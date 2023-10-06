@@ -1,0 +1,3 @@
+﻿  maze3.cpp
+D:\Проекты\maze3\Func.h(72,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  maze3.vcxproj -> D:\Проекты\maze3\x64\Debug\maze3.exe
